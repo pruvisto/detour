@@ -8,7 +8,7 @@ session Detour_Calculus = Path_Automation +
     "root.tex"
     "root.bib"
 
-session Modular_Forms (in Modular_Forms) = Elliptic_Functions +
+session Modular_Forms in Modular_Forms = Elliptic_Functions +
   options [timeout = 1800]
   sessions
     Detour_Calculus
